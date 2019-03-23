@@ -1,0 +1,78 @@
+CREATE TABLE [dbo].[Student](
+	[id] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[name] [nvarchar](45) NOT NULL,
+	[cnic] [nvarchar](15) NULL,
+	[fathername] [nvarchar](45) NOT NULL,
+	[fathercnic] [nvarchar](15) NULL,
+	[dateofbirth] [nvarchar](10) NULL,
+	[class] [nvarchar](25) NOT NULL,
+	[section] [nvarchar](25) NOT NULL,
+	[registerdate] [nvarchar](10) NULL,
+	[status] [bit] NULL,
+	[mobile] [nvarchar](15) NULL,
+	[contact] [nvarchar](15) NULL,
+	[email] [nvarchar](100) NULL,
+	[address1] [nvarchar](100) NULL,
+	[address2] [nvarchar](100) NULL,
+	[photo] [image] NULL,
+	[password] [nvarchar](30) NOT NULL
+)
+
+
+
+
+
+<!!!!!!!!!!!!!!!__________Staff table query
+
+
+
+
+
+
+
+CREATE TABLE [dbo].[Staff](
+	[id] [int] IDENTITY(1,1) NOT NULL PRIMARY KEY,
+	[name] [nvarchar](45) NOT NULL,
+	[cnic] [nvarchar](15) NULL,
+	[fathername] [nvarchar](45) NOT NULL,
+	[fathercnic] [nvarchar](15) NULL,
+	[age] [int] NULL,
+	[registerdate] [nvarchar](10) NULL,
+	[qualification] [nvarchar](30) NULL,
+	[program] [nvarchar](30) NULL,
+	[designation] [nvarchar](15) NULL,
+	[maritalstatus] [bit] NULL,
+	[status] [bit] NULL,
+	[mobile] [nvarchar](15) NULL,
+	[contact] [nvarchar](15) NULL,
+	[email] [nvarchar](100) NULL,
+	[address1] [nvarchar](100) NULL,
+	[address2] [nvarchar](100) NULL,
+	[photo] [image] NULL,
+	[password] [nvarchar] (30) NOT NULL
+	[amount] [int] NULL,
+	[amountlog] [nvarchar](100) NULL
+)
+
+
+
+
+<!!!!!!!!!!!!!!!__________Class table query
+
+
+CREATE TABLE Class(
+	[classid] [int] IDENTITY(0,1) NOT NULL,
+	[name] [nvarchar](100) NOT NULL
+)
+
+
+
+
+<!!!!!!!!!!!!!!!__________Section table query
+
+
+CREATE TABLE Section(
+	[sectionid] [int] IDENTITY(100,1) NOT NULL,
+	[classID] [int] NOT NULL,
+	[name] [nvarchar](100) NOT NULL
+)

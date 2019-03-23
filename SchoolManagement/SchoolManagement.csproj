@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3CFF2910-3E4E-4A24-9DAF-F18F7ACB5C92}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SchoolManagement</RootNamespace>
+    <AssemblyName>SchoolManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <HintPath>C:\Users\sheild\Downloads\webcam\webcam\webcam\bin\Debug\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video">
+      <HintPath>C:\Users\sheild\Downloads\webcam\webcam\webcam\bin\Debug\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow">
+      <HintPath>C:\Users\sheild\Downloads\webcam\webcam\webcam\bin\Debug\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>D:\SOFTWARES\SE TOOLS\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts\Account.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Accounts\Account.Designer.cs">
+      <DependentUpon>Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\GetAmount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Accounts\GetAmount.Designer.cs">
+      <DependentUpon>GetAmount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Accounts\IAccount.cs" />
+    <Compile Include="Accounts\SqlStaffAccount.cs" />
+    <Compile Include="Accounts\SqlStudentAccount.cs" />
+    <Compile Include="Accounts\ViewAcountDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Accounts\ViewAcountDetails.Designer.cs">
+      <DependentUpon>ViewAcountDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DB Migrate.cs" />
+    <Compile Include="DB Migrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DB Migrator.Designer.cs">
+      <DependentUpon>DB Migrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DbClient.cs" />
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Person.cs" />
+    <Compile Include="PictureToByte.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QuizSystem\FileQuizSystem.cs" />
+    <Compile Include="QuizSystem\IQuiz.cs" />
+    <Compile Include="QuizSystem\TakeQuiz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuizSystem\TakeQuiz.Designer.cs">
+      <DependentUpon>TakeQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="QuizSystem\TeacherQuiz.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="QuizSystem\TeacherQuiz.Designer.cs">
+      <DependentUpon>TeacherQuiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\Class.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Registration\Class.Designer.cs">
+      <DependentUpon>Class.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\Classes\SchoolClass.cs" />
+    <Compile Include="Registration\Register.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Registration\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\RegisterForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Registration\RegisterForm.Designer.cs">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\ViewDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Registration\ViewDetails.Designer.cs">
+      <DependentUpon>ViewDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration\WebCam.cs" />
+    <Compile Include="Registration\WebCamCapture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration\WebCamCapture.Designer.cs">
+      <DependentUpon>WebCamCapture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportsStats\StatsMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ReportsStats\StatsMain.Designer.cs">
+      <DependentUpon>StatsMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Staff.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="WindowsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WindowsForm.Designer.cs">
+      <DependentUpon>WindowsForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Accounts\Account.resx">
+      <DependentUpon>Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts\GetAmount.resx">
+      <DependentUpon>GetAmount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Accounts\ViewAcountDetails.resx">
+      <DependentUpon>ViewAcountDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DB Migrator.resx">
+      <DependentUpon>DB Migrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="QuizSystem\TakeQuiz.resx">
+      <DependentUpon>TakeQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QuizSystem\TeacherQuiz.resx">
+      <DependentUpon>TeacherQuiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\Class.resx">
+      <DependentUpon>Class.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\RegisterForm.resx">
+      <DependentUpon>RegisterForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\ViewDetails.resx">
+      <DependentUpon>ViewDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration\WebCamCapture.resx">
+      <DependentUpon>WebCamCapture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportsStats\StatsMain.resx">
+      <DependentUpon>StatsMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WindowsForm.resx">
+      <DependentUpon>WindowsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Registration\Classes\RegisterForm.cd" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

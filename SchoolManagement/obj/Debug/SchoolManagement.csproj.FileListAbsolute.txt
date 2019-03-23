@@ -1,0 +1,375 @@
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\sheild\Documents\Visual Studio 2015\Projects\SchoolManagementSystem\SchoolManagement\obj\Debug\SchoolManagement.Registration.NewStudent.resources
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\sheild\Downloads\SchoolManagement-master\SchoolManagement-master\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+D:\School\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.exe
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.pdb
+D:\School\SchoolManagement\bin\Debug\SchoolManagement.exe
+D:\School\SchoolManagement\bin\Debug\SchoolManagement.pdb
+D:\School\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\sheild\Documents\School\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.pdb
+D:\Project\School Management system\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+D:\Project\School Management system\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+D:\Project\School Management system\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+D:\Project\School Management system\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\Mujeeb\Downloads\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+D:\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+D:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+D:\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\sheild\Documents\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+D:\Project\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+D:\Project\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+D:\Project\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+D:\Project\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+D:\Project\n\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+D:\Project\n\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+D:\Project\n\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+D:\Project\n\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Mujeeb\Downloads\latest\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControl1.resources
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Desktop\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControl1.resources
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\after mujeeb\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.FeesSubmissionForm.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.PaySelery.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControl1.resources
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\Now\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.FeesSubmissionForm.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.PaySelery.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControl1.resources
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\malik\Desktop\Now - Copy\latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+C:\Users\malik\Desktop\Latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+C:\Users\malik\Desktop\Latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.FeesSubmissionForm.resources
+C:\Users\malik\Desktop\Latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.PaySelery.resources
+C:\Users\malik\Desktop\Latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.UserControl1.resources
+C:\Users\malik\Desktop\Latest\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Accounts.FeesSubmissionForm.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.Accounts.PaySelery.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+D:\School\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+C:\Users\sheild\Documents\School\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\School\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\School\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Accounts.FeesSubmissionForm.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Accounts.PaySelery.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.QuizSystem.TeacherQuiz.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+C:\Users\sheild\Documents\School\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+D:\Project\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+D:\Project\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+D:\Project\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojAssemblyReference.cache
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.FeesSubmissionForm.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.PaySelery.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.ViewAccountDetails.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.QuizSystem.TeacherQuiz.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.cache
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CoreCompileInputs.cache
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.CopyComplete
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+D:\Project\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.FeesSubmissionForm.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.PaySelery.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.ViewAccountDetails.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\sheild\Downloads\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.GetAmount.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.Accounts.ViewDetails.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.QuizSystem.TeacherQuiz.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.QuizSystem.TakeQuiz.resources
+C:\Users\sheild\Documents\30 Dec 3 PM\SchoolManagement\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\bin\Debug\SchoolManagement.exe.config
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\bin\Debug\SchoolManagement.exe
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\bin\Debug\SchoolManagement.pdb
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.csprojResolveAssemblyReference.cache
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Accounts.Account.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Accounts.GetAmount.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Accounts.ViewDetails.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Form_Dashboard.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.DB_Migrator.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Home.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Login.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Properties.Resources.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.QuizSystem.TakeQuiz.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.QuizSystem.TeacherQuiz.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Registration.Class.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Registration.Register.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Registration.RegisterForm.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Registration.ViewDetails.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.Registration.WebCamCapture.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.WindowsForm.resources
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.csproj.GenerateResource.Cache
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.exe
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.pdb
+C:\Users\Mujeeb\Desktop\school\SchoolManagement\obj\Debug\SchoolManagement.ReportsStats.StatsMain.resources
